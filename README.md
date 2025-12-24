@@ -27,3 +27,8 @@ The implementation relies on minimizing the operation count. For example, in the
 * **B:** Window grouping overhead per input image.
 * **C:** The core convolution operation on reduced groups.
 * **Total Multiplications:** $A \times B \times C$ (optimized vs. standard $O(N^2)$).
+
+## 📄 Full Documentation
+For a deep dive into details, please refer to the document below:
+
+👉 **[Download Full Project Report (PDF)](Final_Report_Persian.pdf)**
